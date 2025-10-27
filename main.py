@@ -14,3 +14,6 @@ print(sub(a, b))
 print(multi(a, b))
 print(divi(a, b))
 print(mod(a, b))
+
+
+def mile_to_km(miles): return miles * 1.62
